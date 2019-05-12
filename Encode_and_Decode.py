@@ -30,7 +30,7 @@ except UnicodeDecodeError:
 
 
 if option == '-sd':
-    ## ed.py -sd [target file]
+    ## Encode-or-Decode.py -sd [target file]
     f = open(argv[2], 'rb')
     b = f.read()
     f.close()
@@ -42,7 +42,7 @@ if option == '-sd':
             f.close()
 
 if option == '-ds':
-    ## ed.py -ds [target file]
+    ## Encode-or-Decode.py -ds [target file]
     f = open(argv[2], 'rb')
     b = f.read()
     f.close()
