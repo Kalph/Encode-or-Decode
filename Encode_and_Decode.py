@@ -1,3 +1,5 @@
+##인코딩 디코딩 프로그램.
+
 import base64
 from base64 import decodestring
 import sys
