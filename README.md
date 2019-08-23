@@ -1,7 +1,7 @@
 
 Encode-or-Decode
 =====================
-[Encode-or-Decode](#Encode-or-Decode)
+* [Encode-or-Decode](#Encode-or-Decode)
 
 # Encode-or-Decode
 
